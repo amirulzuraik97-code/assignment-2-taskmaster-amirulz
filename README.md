@@ -1,2 +1,2 @@
-# assignment-2-taskmaster-amirulz
-assignment-2-taskmaster-amirulz
+# Assignment 2 Taskmaster amirulz
+Assignment 2 Taskmaster amirulz
